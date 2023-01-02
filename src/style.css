@@ -1,0 +1,7 @@
+body {
+  background-color: #f6d980;
+}
+section .bgImage {
+  background-image: url("./img/heroBg.jpeg");
+  padding-top: 20rem;
+}
